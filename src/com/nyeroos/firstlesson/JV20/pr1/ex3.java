@@ -1,6 +1,6 @@
 package com.nyeroos.firstlesson.JV20.pr1;
 
-public class Main {
+public class ex3 {
 
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5};
