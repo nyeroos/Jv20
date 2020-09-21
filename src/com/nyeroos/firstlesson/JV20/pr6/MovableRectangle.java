@@ -3,7 +3,7 @@ package com.nyeroos.firstlesson.JV20.pr6;
 import com.nyeroos.firstlesson.JV20.pr5.Movable;
 import com.nyeroos.firstlesson.JV20.pr6.MovablePoint;
 
-public class MovableRectangle implements Movable{
+public class MovableRectangle extends Rectangle implements Movable{
     private MovablePoint topLeft;
     private MovablePoint bottomRight;
 
