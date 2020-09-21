@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.nyeroos.firstlesson.JV20.pr6</OriginalElement>
+  <nodes>
+    <node x="225.0" y="192.0">com.nyeroos.firstlesson.JV20.pr6.Rectangle</node>
+    <node x="78.75" y="832.0">com.nyeroos.firstlesson.JV20.pr6.Main</node>
+    <node x="30.0" y="0.0">com.nyeroos.firstlesson.JV20.pr6.Movable</node>
+    <node x="0.0" y="170.0">com.nyeroos.firstlesson.JV20.pr6.MovablePoint</node>
+    <node x="21.350000000000023" y="512.0">com.nyeroos.firstlesson.JV20.pr6.MovableRectangle</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.nyeroos.firstlesson.JV20.pr6.MovableRectangle" target="com.nyeroos.firstlesson.JV20.pr6.MovablePoint">
+      <point x="0.0" y="-135.0" />
+      <point x="155.85000000000002" y="487.0" />
+      <point x="153.75" y="487.0" />
+      <point x="51.25" y="146.0" />
+    </edge>
+    <edge source="com.nyeroos.firstlesson.JV20.pr6.MovableRectangle" target="com.nyeroos.firstlesson.JV20.pr6.Rectangle">
+      <point x="89.66666666666669" y="-135.0" />
+      <point x="245.5166666666667" y="487.0" />
+      <point x="365.0" y="487.0" />
+      <point x="0.0" y="124.0" />
+    </edge>
+    <edge source="com.nyeroos.firstlesson.JV20.pr6.MovablePoint" target="com.nyeroos.firstlesson.JV20.pr6.Movable">
+      <point x="0.0" y="-146.0" />
+      <point x="0.0" y="60.0" />
+    </edge>
+    <edge source="com.nyeroos.firstlesson.JV20.pr6.Main" target="com.nyeroos.firstlesson.JV20.pr6.MovableRectangle">
+      <point x="-37.5" y="-27.0" />
+      <point x="116.25" y="807.0" />
+      <point x="88.60000000000002" y="807.0" />
+      <point x="-67.25" y="135.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6055187637969097" x="1095.234949646029" y="399.7582968243738" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
