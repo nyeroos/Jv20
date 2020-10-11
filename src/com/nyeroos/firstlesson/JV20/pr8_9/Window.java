@@ -1,4 +1,4 @@
-package com.nyeroos.firstlesson.JV20.pr8;
+package com.nyeroos.firstlesson.JV20.pr8_9;
 
 import javax.swing.*;
 import java.awt.*;
