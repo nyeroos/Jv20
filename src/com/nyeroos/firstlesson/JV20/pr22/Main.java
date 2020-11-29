@@ -7,6 +7,5 @@ public class Main {
         System.out.println(student.getBirthday("shortDate"));
         Thread.sleep(2000);
         student.passWork();
-
     }
 }
