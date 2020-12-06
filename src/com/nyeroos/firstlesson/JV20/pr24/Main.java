@@ -43,7 +43,7 @@ public class Main {
         System.out.println(Phonenumber.toFormat("89175655655"));
 
         //-----------5-----------//
-        Scanner in = new Scanner(new File(args[0]));
+        /*Scanner in = new Scanner(new File(args[0]));
         String c = in.nextLine();
         System.out.println(c);
         String words[] = c.split(" ");
@@ -61,6 +61,6 @@ public class Main {
                 }
             }
         }
-        System.out.println(arg);
+        System.out.println(arg);*/
     }
 }
